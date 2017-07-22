@@ -16,4 +16,5 @@
 		echo "a tidak sama dengan b";
 	}
 
+	//operator perbandingan. digunakan untuk menguji hubungan antara nilai atau variable. 
 ?>

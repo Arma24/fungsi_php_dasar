@@ -1,6 +1,6 @@
 <?php 
 
-	echo "<h1> Perulangan </h1>";
+	echo "<h1> Perulangan While</h1>";
 	$a = 1;
 
 	while($a<=5)
@@ -8,6 +8,7 @@
 		echo "Angka : $a <br>";
 		$a++;
 	}
+	//perulangan while yaitu perulangan kode program berdasarkan suatu kondisi yang bernilai benar. jika kondisi tersebut bernilai salah, maka perulangan berhenti
 
 	echo "<br>";
 
@@ -19,6 +20,7 @@
 		$a++;
 	}
 	while ($a<=5);
+	//perulangan do whila yaitu perintah untuk mengerjakan kode program lalu mengulang proses tersebut selama kondisi bernilai benar. perulangan berhenti jika kondisi tidak terpenuhi lagi
 
 	echo "<br>";
 
@@ -36,4 +38,5 @@
 	{
 		echo "$value <br>";
 	}
+	//perulangan for yaitu perulangan kode program dengan jumlah angka perulangan tertentu. perulangan berhenti setelah tercapai angka perulangan yang diset pada inisialisasi FOR. perulangan FOR dipakai jika kita sudah mengetahui berapa jumlah perulangan yang diinginkan
 ?>

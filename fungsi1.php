@@ -10,4 +10,6 @@
 	echo "Sekolah : SMK Telkom Malang";
 	echo "<br>";
 	echo "Aku prakerin di PT. Dhezign Online Solution";
+
+	//fungsi echo yang digunakan untuk menampilkan data di dalam program
 ?>

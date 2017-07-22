@@ -10,4 +10,6 @@
 	echo "Aku sekolah di $sekolah";
 	echo "<br>";
 	echo "Aku sekarang prakerin di $prakerin yang berlokasi di Surabaya";
+
+	//variable. digunakan untuk menampilkan nilai variable dengan menggunakan echo. standar penulisan variable adalah dengan menggunakan tanda($) yang kemudian diikuti dengan nama variable kemudian isi dari variable
 ?>
